@@ -24,3 +24,37 @@ a {
     text-decoration: none;
     padding: 10px;
 }
+
+/*-- Body --*/
+
+body {
+    padding-top: 100px;
+} /*-- this is to stop the navbar overlapping other content --*/
+
+/*-- Chapter Excerpt and Reviews --*/
+
+h2 {
+    color: #F5F5AB;
+    font-family: 'Libre Caslon Text', serif;
+}
+
+p {
+    color: #DBDBBD;
+}
+
+a {
+    font-family: 'Libre Caslon Text', serif;
+    color: #DBDBBD;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.main-home-section {
+    padding: 20px;
+    background: #469D89;
+}
+
+.main-home-section, img, h2 {
+    border-top: 20px;
+}
