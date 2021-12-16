@@ -1,0 +1,26 @@
+/*-- Navigation and Heading --*/
+
+.heading {
+    min-height: 100px;
+    background: #036666;
+}
+
+h1 {
+    font-family: 'Libre Caslon Text', serif;
+    font-weight: 700;
+    color: #F5F5AB;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.flex-menu {
+    align-self: flex-end;
+}
+
+a {
+    font-family: 'Libre Caslon Text', serif;
+    color: #DBDBBD;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+}
