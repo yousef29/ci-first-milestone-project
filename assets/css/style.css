@@ -58,3 +58,23 @@ a {
 .main-home-section, img, h2 {
     border-top: 20px;
 }
+
+/*-- Footer --*/
+
+footer {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background: #036666;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+}
