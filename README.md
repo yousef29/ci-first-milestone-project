@@ -30,4 +30,24 @@ This is the main website for an author it is created to provide information abou
       - ### Imagery
             - The images used are all reflections of the authors work. Four images have been used across the website. Two of them are book covers, these are important in drawing prospective readers attentions to the authors work. There is also an image of the author which has been used to fill space and catch the users attention as well as a map which provides potential and existing readers with more information on the authors world.
 
+## Technologies Used
+   
+### Languages Used
+      - HTML5
+      - CSS
 
+### Frameworks, Libraries, and Progams Used
+    1. Bootstrap v5.13:
+       - Bootstrap was used for responsiveness and design of the website.
+    2. Google Fonts:
+       - Google fonts was used to import the 'Libra Calson Text' font into all html files.
+    3. Font Awesome:
+       - Font Awesome was used throughout the webiste to add icons for aesthetic and UX purposes.
+    4. jQuery:
+       - jQuery came with Bootstrap as part of the navbar respnsiveness.
+    5. Git:
+       - Git was used for version control by utilizing the Gitpod terminal to commit to Git or Push to Github.
+    6. GitHub:
+       - GitHub is used to store the projects code after being pushed from Git.
+    7. Balsamiq:
+       - Balsamiq was used to create the wireframes during the design process. 
