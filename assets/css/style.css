@@ -1,10 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
 /*-- Navigation and Heading --*/
-
 .heading {
     min-height: 100px;
     background: #036666;
 }
-
 h1 {
     font-family: 'Libre Caslon Text', serif;
     font-weight: 700;
@@ -12,11 +11,9 @@ h1 {
     padding-top: 20px;
     padding-left: 15px;
 }
-
 .flex-menu {
     align-self: flex-end;
 }
-
 a {
     font-family: 'Libre Caslon Text', serif;
     color: #DBDBBD;
@@ -24,26 +21,21 @@ a {
     text-decoration: none;
     padding: 10px;
 }
-
 /*-- Body --*/
-
 body {
     padding-top: 100px;
     padding-bottom: 100px;
+    background-color: #469D89;
 } /*-- this is to stop the navbar overlapping other content --*/
-
 /*-- Chapter Excerpt and Reviews --*/
-
 h2 {
     color: #F5F5AB;
     font-family: 'Libre Caslon Text', serif;
 }
-
 p {
     color: #DBDBBD;
     font-family: 'Libre Caslon Text', serif;
 }
-
 a {
     font-family: 'Libre Caslon Text', serif;
     color: #DBDBBD;
@@ -51,24 +43,28 @@ a {
     text-decoration: none;
     padding: 10px;
 }
-
+.active {
+    text-decoration: underline;
+}
+a:hover {
+    color: #fafafa;
+}
+.book-cover {
+    width: 100%;
+}
 .main-home-section {
     padding: 20px;
     background: #469D89;
     height: 100%;
 }
-
 .main-home-section, img, h2 {
     border-top: 20px;
 }
-
 /*-- Footer --*/
-
 footer {
     max-height: 100px;
     background: #036666;
 }
-
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -80,9 +76,7 @@ footer {
     color: #fafafa;
     background: #8f8f8f;
 }
-
 /*-- World Section --*/
-
 .map-title {
     display: flex;
     align-content: center;
