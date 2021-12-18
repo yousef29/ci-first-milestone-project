@@ -52,8 +52,8 @@ on this website is fictional though some of the work is taken from my own writin
 ## Technologies Used
    
 ### Languages
-      - [HTML5](https://en.wikipedia.org/wiki/HTML5)
-      - [CSS](https://en.wikipedia.org/wiki/CSS)
+   - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+   - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries, and Other Resources
    1. [Bootstrap](https://getbootstrap.com/) v5.13:
@@ -137,6 +137,8 @@ HTML:
 - [About](assets/validator/htmlvalidatorabout.png)
 - [Contact](assets/validator/htmlvalidatorcontact.png)
 - [Books](assets/validator/htmlvalidatorbooks.png)
+
+[CSS](assets/validator/cssvalidator.png)
 
 #### Responsivenes
 
