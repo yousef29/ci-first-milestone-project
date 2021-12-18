@@ -2,7 +2,7 @@
 
 ## Yousef Al-Manasfi's Author Website
 
-![Image showing the website across multiple device screens](assets/images/MultiDevice.png)
+![Image showing the website across multiple device screens](assets/images/multidevice.png)
 
 ## Introduction
 
@@ -13,7 +13,7 @@ on this website is fictional though some of the work is taken from my own writin
 
 ## User Experience (UX)
 
-- ### User Stories
+### User Stories
       First time Visitor Goals
          1. As a first time visitor, I want to know more about the author and their works.
          2. As a first time visitor, I want to be able to easily navigate the website.
@@ -29,7 +29,7 @@ on this website is fictional though some of the work is taken from my own writin
          1. As a frequent visitor, I want to know how to contact the author.
          2. As a frequent visitor, I want to know where to find the autors social media.
 
-- ### Design
+### Design
       - Colour Scheme
       
       Two primary colours have been used for the background of the site. These colours are Skobeloff and Polished Pine, they were chosen by using [Coolors](https://coolors.co/). Two colors were used for the text both are varying shades of yellow green. The colours were chosen to fit the aesthetic of the authors work and maintain a fantasy like feeling.
@@ -42,32 +42,41 @@ on this website is fictional though some of the work is taken from my own writin
       
       The images used are all reflections of the authors work. Three images have been used across the website. Two of them are book covers, these are important in drawing prospective readers attentions to the authors work. There is also an image of the author which has been used to fill space and catch the users attention.
 
+### Wireframes
+
+- Home page [Wireframe](assets/wireframes/wireframehome.png)
+- About page [Wireframe](assets/wireframes/wireframeabout.png)
+- Contact page [Wireframe](assets/wireframes/wireframecontact.png)
+- Books page [Wireframe](assets/wireframes/wireframebooks.png)
+
 ## Technologies Used
    
 ### Languages
-      - HTML5
-      - CSS
+      - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+      - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries, and Other Resources
-   1. Bootstrap v5.13:
+   1. [Bootstrap](https://getbootstrap.com/) v5.13:
       - Bootstrap was used for responsiveness and design of the website.
-   2. Google Fonts:
+   2. [Google Fonts](https://fonts.google.com/):
       - Google fonts was used to import the 'Libra Calson Text' font into all html files.
-   3. Font Awesome:
+   3. [Font Awesome](https://fontawesome.com/):
       - Font Awesome was used throughout the webiste to add icons for aesthetic and UX purposes.
-   4. jQuery:
-      - jQuery came with Bootstrap as part of the navbar respnsiveness.
-   5. Git:
-      - Git was used for version control by utilizing the Gitpod terminal to commit to Git or Push to Github.
-   6. GitHub:
+   4. [jQuery](https://jquery.com/):
+      - jQuery came with Bootstrap as part of the navbar responsiveness.
+   5. [GitPod](https://www.gitpod.io/):
+      - GitPod was used for version control by utilizing the Gitpod terminal to commit to Git or Push to Github.
+   6. [GitHub](https://github.com/):
       - GitHub is used to store the projects code after being pushed from Git.
-   7. Balsamiq:
+   7. [Balsamiq](https://balsamiq.com/):
       - Balsamiq was used to create the wireframes during the design process.
-   8. Canva:
+   8. [Canva](https://www.canva.com/):
       - Canva was used to create the book covers for Oakheart and Time of
       Decay. The images were free license images taken from pixabay.
-   9. pixabay
+   9. [pixabay](https://pixabay.com/):
       - Used pixabay to source license free images. The only image taken from pixabay were for the two book covers. Other images were sourced from personal photo collections.
+   10. [inkarnate](https://inkarnate.com/):
+      - This was also used to create a [map](assets/images/ostia.jpg) of the authors world although it did not remain in the final version of the website.
 
 ### Testing
 
@@ -124,10 +133,10 @@ I have tested the form and this works without any issues.
 The websites has been through the W3C validators with 0 errors.
 
 HTML:
-- [Home](assets/Validator/HTMLValidatorHome.png)
-- [About](assets/Validator/HTMLValidatorAbout.png)
-- [Contact](assets/Validator/HTMLValidatorContact.png)
-- [Books](assets/Validator/HTMLValidatorBooks.png)
+- [Home](assets/validator/htmlvalidatorhome.png)
+- [About](assets/validator/htmlvalidatorabout.png)
+- [Contact](assets/validator/htmlvalidatorcontact.png)
+- [Books](assets/validator/htmlvalidatorbooks.png)
 
 #### Responsivenes
 
@@ -136,20 +145,20 @@ I have tested the responsiveness of the website using Chrome Dev Tools. Everythi
 #### Lighthouse testing
 
 Home page:
-- [Desktop](assets/images/LightHouseTestingHomeDesktop.png)
-- [Mobile](assets/images/LighthouseTestingHomeMobile.png)
+- [Desktop](assets/images/lighthousetestinghomedesktop.png)
+- [Mobile](assets/images/lighthousetestinghomemobile.png)
 
 About page:
-- [Desktop](assets/images/LightHouseTestingAboutDesktop.png)
-- [Mobile](assets/images/LightHouseTestingAboutMobile.png)
+- [Desktop](assets/images/lighthousetestingaboutdesktop.png)
+- [Mobile](assets/images/lighthousetestingaboutmobile.png)
 
 Contact page:
-- [Desktop](assets/images/LightHouseTestingContactDesktop.png)
-- [Mobile](assets/images/LightHouseTestingContactMobile.png)
+- [Desktop](assets/images/lighthousetestingcontactdesktop.png)
+- [Mobile](assets/images/lighthousetestingcontactmobile.png)
 
 Books page:
-- [Desktop](assets/images/LighthouseTestingBooksDesktop.png)
-- [Mobile](assets/images/LighthouseTestingBooksMobile.png)
+- [Desktop](assets/images/lighthousetestingbooksdesktop.png)
+- [Mobile](assets/images/lighthousetestingbooksmobile.png)
 
 #### Issues
 
