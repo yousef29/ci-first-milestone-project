@@ -106,15 +106,21 @@ I have tested the form and this works without any issues.
 
 The websites has been through the W3C validators with 0 errors.
 
+HTML:
+- [Home](assets/Validator/HTMLValidatorHome.png)
+- [About](assets/Validator/HTMLValidatorAbout.png)
+- [Contact](assets/Validator/HTMLValidatorContact.png)
+- [Books](assets/Validator/HTMLValidatorBooks.png)
+
 #### Responsivenes
 
-I have tested the responsiveness of the website using Chrome Dev Tools. Everything works accordingly and the website responds correctly to the breakpoints set usign Bootstrap.
+I have tested the responsiveness of the website using Chrome Dev Tools. Everything works accordingly and the website responds correctly to the breakpoints set using Bootstrap.
 
 #### Lighthouse testing
 
 Home page:
 - [Desktop](assets/images/LightHouseTestingHomeDesktop.png)
-- [Mobile](assets/images/LightHouseTestingHomeMobile.png)
+- [Mobile](assets/images/LighthouseTestingHomeMobile.png)
 
 About page:
 - [Desktop](assets/images/LightHouseTestingAboutDesktop.png)
