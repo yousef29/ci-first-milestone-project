@@ -147,20 +147,20 @@ I have tested the responsiveness of the website using Chrome Dev Tools. Everythi
 #### Lighthouse testing
 
 Home page:
-- [Desktop](assets/images/lighthousetestinghomedesktop.png)
-- [Mobile](assets/images/lighthousetestinghomemobile.png)
+- [Desktop](assets/lighthouse/lighthousetestinghomedesktop.png)
+- [Mobile](assets/lighthouse/lighthousetestinghomemobile.png)
 
 About page:
-- [Desktop](assets/images/lighthousetestingaboutdesktop.png)
-- [Mobile](assets/images/lighthousetestingaboutmobile.png)
+- [Desktop](assets/lighthouse/lighthousetestingaboutdesktop.png)
+- [Mobile](assets/lighthouse/lighthousetestingaboutmobile.png)
 
 Contact page:
-- [Desktop](assets/images/lighthousetestingcontactdesktop.png)
-- [Mobile](assets/images/lighthousetestingcontactmobile.png)
+- [Desktop](assets/lighthouse/lighthousetestingcontactdesktop.png)
+- [Mobile](assets/lighthouse/lighthousetestingcontactmobile.png)
 
 Books page:
-- [Desktop](assets/images/lighthousetestingbooksdesktop.png)
-- [Mobile](assets/images/lighthousetestingbooksmobile.png)
+- [Desktop](assets/lighthouse/lighthousetestingbooksdesktop.png)
+- [Mobile](assets/lighthouse/lighthousetestingbooksmobile.png)
 
 #### Issues
 
